@@ -29,14 +29,6 @@ export const skills: Skill[] = [
 
 export const projects: Project[] = [
   {
-    id: "task-manager-app",
-    title: "Task Manager Android App",
-    description: "A modern task management application built with Jetpack Compose and Room database. Features include task categorization, priority levels, and offline support.",
-    category: "Open-Source",
-    skills: ["kotlin", "jetpack-compose", "room", "android"],
-    featured: true,
-  },
-  {
     id: "ecommerce-backend",
     title: "E-commerce API",
     description: "RESTful API for an e-commerce platform with user authentication, product management, and order processing. Built with Spring Boot and PostgreSQL.",
