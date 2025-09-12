@@ -11,11 +11,11 @@ const Home = () => {
           <div className="mb-16">
             <h1 className="text-5xl md:text-6xl font-bold mb-6">
               <span className="bg-gradient-primary bg-clip-text text-transparent">
-                Hello, I'm a Developer
+                Hello, I'm khaled a native Android developer
               </span>
             </h1>
             <p className="text-xl text-muted-foreground mb-8 leading-relaxed max-w-2xl mx-auto">
-              I'm a passionate software developer specializing in mobile and web applications. 
+              I'm a passionate software developer specializing in Android. 
               I love creating clean, efficient code and bringing ideas to life through technology.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -56,8 +56,8 @@ const Home = () => {
             <h2 className="text-3xl font-bold mb-6 text-foreground">About Me</h2>
             <p className="text-lg text-muted-foreground leading-relaxed mb-8">
               I'm a dedicated developer with experience in both client work and open-source projects. 
-              My expertise spans mobile development with Android and Kotlin, backend systems with Java, 
-              and modern web technologies. I believe in writing clean, maintainable code and creating 
+              My expertise spans mobile development with Android and Kotlin, backend systems with ktor and flask, 
+              I believe in writing clean, maintainable code and creating 
               user experiences that make a difference.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
